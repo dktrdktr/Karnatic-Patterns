@@ -6,4 +6,5 @@ Patterns are generated as MIDI files using MIDO library.
 # Dependencies
 
 NumPy: http://www.numpy.org/
+
 MIDO: https://mido.readthedocs.io/
